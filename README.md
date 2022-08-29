@@ -19,4 +19,7 @@ Resume Parsing can be very tricky as a recruiter needs to process multiple numbe
 
 <img width=400 src="https://user-images.githubusercontent.com/59830753/187107424-ffeee74e-c919-4a6e-bfb7-8287d7293fb9.png">
 
+<img width=400 src="https://user-images.githubusercontent.com/59830753/187107685-012c8e68-43ff-41d1-9d0c-94af118f833b.png">
+
+
 
