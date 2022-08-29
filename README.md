@@ -17,6 +17,6 @@ Resume Parsing can be very tricky as a recruiter needs to process multiple numbe
 
 ## Output
 
-![image](https://user-images.githubusercontent.com/59830753/187107424-ffeee74e-c919-4a6e-bfb7-8287d7293fb9.png)
+<img width=400 src="https://user-images.githubusercontent.com/59830753/187107424-ffeee74e-c919-4a6e-bfb7-8287d7293fb9.png">
 
 
